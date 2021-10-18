@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dlyrch {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media (min-width: 1200px) {
+  .App {
+    max-width: 1400px;
+  }
+}
+body {
+  margin: 0;
+}
+
+.gr-1 {
+  background-color: green;
+  height: 75vh;
+}
+.gr-2 {
+  background-color: yellow;
+}
+.gr {
+  width: 100%;
+  height: 100%;
+}
+.background {
+  /* background-color: #fde8f1; background
+  #fff684 yellow color
+  #f1f1f2 admin place
+  #8b2269 navbar
+  */
+}
